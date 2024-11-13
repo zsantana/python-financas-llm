@@ -4,8 +4,6 @@
 
 Este é um projeto que te permite analisar finanças pessoais, baseados em arquivos .ofx, utilizando modelos de linguagem (ChatGPT, Claude, Groq, LLMs locais) para categorizar automaticamente as transações.
 
-<img src="./video.gif"/>
-
 
 Este é o código fonte do projeto apresentado [neste vídeo](https://www.instagram.com/p/C_03fokuu-4/).
 
